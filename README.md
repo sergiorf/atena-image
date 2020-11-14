@@ -1,1 +1,1 @@
-# atena-image-core
+# atena-image
